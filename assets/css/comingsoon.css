@@ -16,3 +16,20 @@ b {
 .footer-copyright {
     bottom: 0 !important;
 }
+
+.text-dark {
+    --bs-text-opacity: 1;
+    color: white !important;;
+}
+.bg-warning {
+    --bs-bg-opacity: 1;
+    background-color: #2E0174 !important;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: white !important;
+}
